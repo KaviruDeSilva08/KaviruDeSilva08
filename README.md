@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kaviru_De_Silva
+- 👀 I’m interested in UX/UI and software development, front-end development and graphic design.
+- 🌱 I’m currently learning Computer Science In NSBM Green university.
+- 🏡'Lives in Sri Lanka.
