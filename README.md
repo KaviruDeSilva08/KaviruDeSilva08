@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/animated-header.svg" width="100%" />
+  <img src="https://github.com/KaviruDeSilva08/KaviruDeSilva08/blob/main/animated-header.svg" width="100%" />
 </p>
 
 <div align="center">
@@ -9,10 +9,6 @@
 </div>
 
 <!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/animated-header.svg" width="100%" />
-</p>
-
 ---
 <div align="left">
 
@@ -103,6 +99,6 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
 
 <dev>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/animated-header.svg" width="100%" />
+  <img src="https://github.com/KaviruDeSilva08/KaviruDeSilva08/blob/main/animated-divider.svg" width="100%" />
 </p>
 
