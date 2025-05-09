@@ -88,7 +88,7 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kaviru-de-silva-4a2922238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=000000" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=logmein&logoColor=white&color=0A66C2&labelColor=000000" alt="LinkedIn"/>
   </a>
   
   <!-- Email -->
@@ -96,7 +96,12 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=D14836&labelColor=000000" alt="Email"/>
   </a>
 </p>
-<br>
+
+<!-- Portfolio -->
+<a href="https://kavirudesilva-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=googlechrome&logoColor=white&color=0A66C2&labelColor=000000" alt="portfolio"/>
+  </a> 
+  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KaviruDeSilva08&label=Profile%20views&color=blue&style=for-the-badge" alt="KaviruDeSilva08" /> </p>
 
 ---
