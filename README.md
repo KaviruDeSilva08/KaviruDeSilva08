@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<!-- Animated Divider -->
+
 ---
 <div align="left">
 
@@ -91,3 +93,20 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=20&duration=4000&pause=800&color=DEFF70FF&background=00000000&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+GitHub+profile!" alt="Thank you for visiting my GitHub profile!" />
   </a>
 </div>
+
+<dev>
+<svg viewBox="0 0 1200 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff">
+        <animate attributeName="stop-color" values="#00c6ff;#0072ff;#00c6ff" dur="5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0072ff">
+        <animate attributeName="stop-color" values="#0072ff;#00c6ff;#0072ff" dur="5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <path d="M0,50 C300,150 900,-50 1200,50 L1200,100 L0,100 Z" fill="url(#grad)" />
+</svg>
+</dev>
+
