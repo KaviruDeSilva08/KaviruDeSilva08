@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KaviruDeSilva08/KaviruDeSilva08/blob/main/animated-header.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00DEFF&text=Welcome&reversal=false&descAlign=60&descAlignY=60&fontColor=ffffff&fontSize=40&animation=twinkling&section=header" width="100%" />
 </p>
 
 <div align="center">
@@ -73,21 +73,29 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
 
 </div>
 
-<h2 align="center"><u><b>💬 Contact Me</b></u></h2>
-<div align="center">
-  <a href="https://www.facebook.com/share/1C2nyMtKqr/?mibextid=wwXIfr" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<h2 align="center">📲 Connect With Me</h2>
+
+<p align="center">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/1C2nyMtKqr/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&color=1877F2&labelColor=000000" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/kaviz_dsilva/profilecard/?igsh=MW5sb3Zwc3k3bWJ5dw==" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/kaviz_dsilva/profilecard/?igsh=MW5sb3Zwc3k3bWJ5dw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F&labelColor=000000" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/kaviru-de-silva-4a2922238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kaviru-de-silva-4a2922238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=000000" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kaviru08@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  
+  <!-- Email -->
+  <a href="mailto:kaviru08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=D14836&labelColor=000000" alt="Email"/>
   </a>
-</div>
+</p>
 
 ---
 
@@ -97,8 +105,6 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
   </a>
 </div>
 
-<dev>
 <p align="center">
-  <img src="https://github.com/KaviruDeSilva08/KaviruDeSilva08/blob/main/animated-divider.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00DEFF&reversal=false&descAlign=60&descAlignY=60&fontColor=ffffff&fontSize=60&animation=twinkling&section=footer" width="100%" />
 </p>
-
