@@ -61,8 +61,8 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KaviruDeSilva08&theme=react&border_radius=5&mode=weekly)](https://git.io/streak-stats) <br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviruDeSilva08&layout=compact&theme=react&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaviruDeSilva08&show_icons=true&theme=react&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviruDeSilva08&layout=compact&theme=react&border_radius=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaviruDeSilva08&show_icons=true&theme=react&border_radius=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
