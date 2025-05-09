@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/animated-header.svg" width="100%" />
+</p>
+
 <div align="center">
   <a href="https://github.com/KaviruDeSilva08">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&duration=3000&pause=800&color=00DEFF&background=00000000&center=true&vCenter=true&width=500&lines=hello+%2C+I+am+Kaviru+De+Silva;DESIGNER+%E2%80%A2+DEVELOPER+%E2%80%A2+CREATOR;COMPUTER+SCIENCE+STUDENT;FROM+SRI+LANKA" alt="Kaviru's Animated Intro" />
@@ -5,6 +9,9 @@
 </div>
 
 <!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/animated-header.svg" width="100%" />
+</p>
 
 ---
 <div align="left">
@@ -95,18 +102,7 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
 </div>
 
 <dev>
-<svg viewBox="0 0 1200 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00c6ff">
-        <animate attributeName="stop-color" values="#00c6ff;#0072ff;#00c6ff" dur="5s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#0072ff">
-        <animate attributeName="stop-color" values="#0072ff;#00c6ff;#0072ff" dur="5s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <path d="M0,50 C300,150 900,-50 1200,50 L1200,100 L0,100 Z" fill="url(#grad)" />
-</svg>
-</dev>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/animated-header.svg" width="100%" />
+</p>
 
