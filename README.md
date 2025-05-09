@@ -96,6 +96,8 @@ I'm **Kaviru De Silva**, a Computer Science student at NSBM Green University in 
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&color=D14836&labelColor=000000" alt="Email"/>
   </a>
 </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KaviruDeSilva08&label=Profile%20views&color=blue&style=for-the-badge" alt="KaviruDeSilva08" /> </p>
 
 ---
 
